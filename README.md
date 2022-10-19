@@ -40,20 +40,20 @@ I am currently studying for a Bachelor's degree in information technology at NTN
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html" />
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6" />
   </a>
 </div>
 
 <br>
 
-<div style="width: 100%; display: flex">
+<!--<div style="width: 100%; display: flex">
   <a>
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&show_icons=true&theme=dark" />
   </a>
   <a>
     <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&show_icons=true&theme=dark&layout=compact" />
   </a>
-</div>
+</div> -->
 
 <!--![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinBraates&theme=vue)-->
 
