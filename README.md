@@ -44,6 +44,16 @@ I am currently studying for a Bachelor's degree in information technology at NTN
   </a>
 </div>
 
+<br>
+
+<div style="width: 100%; display: flex">
+  <a>
+    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=Hoyby&show_icons=true&theme=dark" />
+  </a>
+  <a>
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyby&show_icons=true&theme=dark&layout=compact" />
+  </a>
+</div>
 
 <!--![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinBraates&theme=vue)-->
 
