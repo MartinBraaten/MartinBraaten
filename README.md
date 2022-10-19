@@ -44,7 +44,7 @@ I am currently studying for a Bachelor's degree in information technology at NTN
   </a>
 </div>
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinBraates&theme=vue)
+
 <!--![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinBraates&theme=vue)-->
 
 <!--
