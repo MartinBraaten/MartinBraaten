@@ -33,14 +33,18 @@ I am currently studying for a Bachelor's degree in information technology at NTN
 
 </div>
 <br>
+<!-- ![Profile views](https://gpvc.arturio.dev/MartinBraaten) -->
+<br>
 <div style="width: 100%; display: flex">
-  <a>
-    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&show_icons=true&theme=dark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&count_private=true&show_icons=true&theme=dark" />
   </a>
-  <a>
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&show_icons=true&theme=dark&layout=compact" />
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html" />
   </a>
 </div>
+
+<!--![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariusArhaug&theme=vue)-->
 
 <!--
 **MartinBraaten/MartinBraaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
