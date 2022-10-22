@@ -10,7 +10,7 @@
 
 
 My name is Martin!
-I am currently studying for a Bachelor's degree in information technology at NTNU.
+I am currently studying for my bachelor's degree in information technology at NTNU.
 
 - 📫 How to reach me: martin.isaksen@live.no
 
@@ -46,30 +46,4 @@ I am currently studying for a Bachelor's degree in information technology at NTN
   </a>
 </div>
 
-<br>
 
-<!--<div style="width: 100%; display: flex">
-  <a>
-    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&show_icons=true&theme=dark" />
-  </a>
-  <a>
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&show_icons=true&theme=dark&layout=compact&hide=css,html" />
-  </a>
-</div> -->
-
-<!--![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinBraates&theme=vue)-->
-
-<!--
-**MartinBraaten/MartinBraaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
