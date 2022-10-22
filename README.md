@@ -12,6 +12,8 @@
 My name is Martin!
 I am currently studying for a Bachelor's degree in information technology at NTNU.
 
+- 📫 How to reach me: martin.isaksen@live.no
+
 ## **Languages and tools that I use**
 <div>
 <img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,7 +42,7 @@ I am currently studying for a Bachelor's degree in information technology at NTN
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6" />
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html" />
   </a>
 </div>
 
