@@ -10,7 +10,7 @@
 
 
 My name is Martin!
-I am currently studying for my bachelor's degree in information technology at NTNU.
+I am currently studying for my bachelor's degree in informatics at NTNU.
 
 - 📫 How to reach me: martin.isaksen@live.no
 
