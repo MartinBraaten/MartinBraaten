@@ -51,7 +51,7 @@ I am currently studying for a Bachelor's degree in information technology at NTN
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&show_icons=true&theme=dark" />
   </a>
   <a>
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&show_icons=true&theme=dark&layout=compact" />
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&show_icons=true&theme=dark&layout=compact&hide=css,html" />
   </a>
 </div> -->
 
