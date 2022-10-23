@@ -42,7 +42,7 @@ I am currently studying for my bachelor's degree in informatics at NTNU.
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html,makefile" />
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html,makefile,jupyter" />
   </a>
 </div>
 
