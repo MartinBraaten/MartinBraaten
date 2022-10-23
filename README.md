@@ -45,7 +45,7 @@ I am currently studying for my bachelor's degree in informatics at NTNU.
     <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBraaten&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html,makefile,jupyter" />
   </a>
 </div>
-<div style="width: 100%; display: flex">
+<!-- <div style="width: 100%; display: flex">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinBraaten)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 
