@@ -22,7 +22,6 @@ I am currently studying for my bachelor's degree in informatics at NTNU.
 <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img height="20" src="https://img.shields.io/badge/SQLite-404D59?style=for-the-badge&logo=SQLite&logoColor=61DAFB">
 </div>
