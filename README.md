@@ -22,21 +22,27 @@ I am currently studying for my bachelor's degree in informatics at NTNU.
 <img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+</div>
+
+<div>
 <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img height="20" src="https://img.shields.io/badge/SQLite-404D59?style=for-the-badge&logo=SQLite&logoColor=61DAFB">
-</div>
-<div>
-
+<img height="20" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-
+<img height="20" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 
 </div>
+
 <br>
 <!-- ![Profile views](https://gpvc.arturio.dev/MartinBraaten) -->
 <br>
+
 <div style="width: 100%; display: flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MartinBraaten&count_private=true&show_icons=true&theme=dark" />
