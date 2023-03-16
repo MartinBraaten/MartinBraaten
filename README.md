@@ -35,7 +35,7 @@ I am currently studying for my bachelor's degree in informatics at NTNU.
 <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;&nbsp;
 <img height="20" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">&nbsp;&nbsp;&nbsp;
 <img height="20" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;&nbsp;
-<img  height="16" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">&nbsp;&nbsp;&nbsp;
+<img  height="25" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?&style=for-the-badge&logo=tailwind-css&logoColor=black" />&nbsp;&nbsp;&nbsp;
 
 </div>
