@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/martin-br%C3%A5ten-isaksen-67638b13a/">
-  <img align="left" alt="Martin's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <br/>
-<br/>
-
 
 My name is Martin. I have a bachelor's degree in informatics and a master's degree in civil and environmental engineering from NTNU. 
 
 - 📫 How to reach me: martin.isaksen@live.no
+<a href="https://www.linkedin.com/in/martin-br%C3%A5ten-isaksen-67638b13a/">
+  <img align="left" alt="Martin's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
 
 ## **Languages and tools that I use**
 <div>
