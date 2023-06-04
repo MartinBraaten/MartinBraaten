@@ -5,12 +5,10 @@
 </a>
 
 <br/>
-
 <br/>
 
 
-My name is Martin!
-I am currently studying for my bachelor's degree in informatics at NTNU.
+My name is Martin. I have a bachelor's degree in informatics and a master's degree in civil and environmental engineering from NTNU. 
 
 - 📫 How to reach me: martin.isaksen@live.no
 
